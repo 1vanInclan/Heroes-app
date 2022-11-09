@@ -4,6 +4,7 @@ import { AppRouter } from "./router/AppRouter"
 
 export const HeroesApp = () => {
   return (
+    // prueba
     <AuthProvider>
         <AppRouter />
     </AuthProvider>
